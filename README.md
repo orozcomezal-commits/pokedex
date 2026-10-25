@@ -1,36 +1,36 @@
-# Pokédex Angular
+#### **Proceso de iniciacion de Azure **
 
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
-[![codecov](https://codecov.io/gh/keilermora/pokedex-angular/branch/master/graph/badge.svg?token=9E0D28IOFT)](https://codecov.io/gh/keilermora/pokedex-angular)
-[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+1.  **Ingresar a la Plataforma Oficial**
+    
+    -   Nos Dirígimos a la página de **[Azure for Students]**.
+        
+    -   Haz clic en el botón verde **"Empezar gratis"** 
+    - Como nosotros ya contamos con una cuenta presionaremos en **"iniciar sesion "**
 
-[https://keilermora.github.io/pokedex-angular/](https://keilermora.github.io/pokedex-angular/)
 
-La aplicación muestra el listado y el detalle de los Pokémon de las primeras 3 generaciones.
+<img width="1344" height="605" alt="Captura de pantalla 2026-10-25 134947" src="https://github.com/user-attachments/assets/18b08279-a514-468f-82bd-6165a5b6c6c6" />
 
-La imagen que representa un Pokémon en el listado muestra las variaciones que estos tuvieron durante las primeras versiones, desde la versión Green (1996) hasta la version Emerald (2005).
+2. **Verificacion de cuenta**
+ * Ingresamos correo y contraseña 
+ * Seleccionamos nuestra cuenta 
+ 
+ <img width="617" height="495" alt="Captura de pantalla 2026-10-25 134959" src="https://github.com/user-attachments/assets/6e23034c-7551-4059-b875-2fdb60376c46" />
 
-Los detalles de un Pokémon individual muestra sus estadísticas base y los registros de la Pokédex de las diferentes versiones.
 
-El proyecto fue desarrollado usando la librería de JavaScript [Angular](https://angular.io/) para crear la interfaz de usuario, en comunicación con la Api RESTful [PokéAPI](https://pokeapi.co/).
+---
 
-## Requisitos mínimos
+3. **Aceptamos terminos**
++ Seleccionamos "si"
 
-- [Nodejs](https://nodejs.org) con soporte de largo plazo (LTS).
-- Un navegador web
 
-## Ambiente de pruebas
+<img width="502" height="493" alt="Captura de pantalla 2026-10-25 135015" src="https://github.com/user-attachments/assets/6f8d0ba5-1701-4fba-ad6d-9cd6f0a1462e" />
 
-Ejecutar en la raíz del proyecto:
+---
 
-```
-npm start
-```
+4. **Verificamos creditos de azure student ¨**
 
-## Referencias
 
-- [Angular](https://angular.io/): One framework.
-- [Angular Folder Structure](https://angular-folder-structure.readthedocs.io/en/latest/): Create a skeleton structure which is flexible for projects big or small.
-- [Font Awesome](https://fontawesome.com/): The web's most popular icon set and toolkit.
-- [Normalize.css](https://necolas.github.io/normalize.css/): A modern, HTML5-ready alternative to CSS resets.
-- [PokéAPI](https://pokeapi.co/): The RESTful Pokémon API.
+* Verificamos que contamos con creditos estudiantiles , de nuestra cuenta de universidad y listo para empezar a crear .
+
+
+<img width="684" height="536" alt="Captura de pantalla 2026-10-25 135044" src="https://github.com/user-attachments/assets/c10ebdf5-7751-46a4-a4bd-331e735c7388" />
